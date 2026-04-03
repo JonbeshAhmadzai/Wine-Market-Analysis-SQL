@@ -30,7 +30,7 @@ The notebooks folder contains:
 
 ---
 
-### 🗄️ SQL Files (Core Logic)
+###  SQL Files (Core Logic)
 
 All business logic is written in dedicated `.sql` files:
 
