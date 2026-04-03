@@ -1,0 +1,3 @@
+SELECT *
+FROM wineries
+LIMIT 10;

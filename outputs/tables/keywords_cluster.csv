@@ -1,0 +1,430 @@
+wine_name,matching_keywords,matching_groups,matched_keyword_count
+Belle Epoque Brut Champagne,"green apple,toast,coffee,citrus,cream","tree_fruit,non_oak,citrus_fruit,microbio,oak",5
+Blanc des Millénaires,"toast,coffee,cream,citrus,green apple","non_oak,oak,microbio,citrus_fruit,tree_fruit",5
+Brut Champagne,"toast,coffee,cream,green apple,citrus","non_oak,microbio,oak,tree_fruit,citrus_fruit",5
+Comtes de Champagne Blanc de Blancs,"toast,coffee,cream,citrus,green apple","non_oak,microbio,oak,citrus_fruit,tree_fruit",5
+Cristal Brut Champagne (Millésimé),"toast,coffee,green apple,citrus,cream","non_oak,tree_fruit,citrus_fruit,oak,microbio",5
+Cuvée des Enchanteleurs Brut Champagne,"toast,coffee,cream,green apple,citrus","non_oak,oak,microbio,tree_fruit,citrus_fruit",5
+Dom Ruinart Blanc de Blancs Brut Champagne,"toast,coffee,cream,green apple,citrus","non_oak,microbio,oak,tree_fruit,citrus_fruit",5
+Grande Cuvée,"toast,coffee,cream,citrus,green apple","non_oak,oak,microbio,citrus_fruit,tree_fruit",5
+La Grande Année Brut Champagne,"toast,coffee,cream,green apple,citrus","non_oak,oak,microbio,tree_fruit,citrus_fruit",5
+La Grande Dame Brut Champagne,"toast,coffee,green apple,cream,citrus","non_oak,oak,tree_fruit,microbio,citrus_fruit",5
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,"citrus,toast,coffee,cream,green apple","citrus_fruit,non_oak,oak,microbio,tree_fruit",5
+P2 Plénitude Brut Champagne,"toast,coffee,cream,green apple,citrus","non_oak,oak,microbio,tree_fruit,citrus_fruit",5
+R.D Extra Brut Champagne (Récemment Dégorgé),"toast,coffee,cream,green apple,citrus","non_oak,oak,microbio,tree_fruit,citrus_fruit",5
+Sauternes,"green apple,coffee,toast,citrus,cream","tree_fruit,oak,non_oak,citrus_fruit,microbio",5
+Sir Winston Churchill Brut Champagne,"toast,coffee,cream,green apple,citrus","non_oak,oak,microbio,tree_fruit,citrus_fruit",5
+Trebbiano d'Abruzzo,"coffee,green apple,citrus,toast,cream","oak,tree_fruit,citrus_fruit,non_oak,microbio",5
+Vintage,"toast,coffee,cream,green apple,citrus","non_oak,oak,microbio,tree_fruit,citrus_fruit",5
+'Giulio Ferrari' Riserva del Fondatore,"cream,toast,green apple,citrus","microbio,non_oak,tree_fruit,citrus_fruit",4
+5 Puttonyos Aszú (Blue Label),"green apple,citrus,toast,cream","tree_fruit,citrus_fruit,non_oak,microbio",4
+Amarone della Valpolicella Classico,"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Amour de Deutz Millésimé Brut Champagne,"toast,cream,citrus,green apple","non_oak,microbio,citrus_fruit,tree_fruit",4
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',"cream,toast,green apple,citrus","microbio,non_oak,tree_fruit,citrus_fruit",4
+Belondrade y Lurton,"green apple,cream,toast,citrus","tree_fruit,microbio,non_oak,citrus_fruit",4
+Blanc de Blancs Brut Champagne (Vintage),"green apple,citrus,toast,cream","tree_fruit,citrus_fruit,non_oak,microbio",4
+Blanc de Blancs Brut Champagne Grand Cru,"toast,cream,green apple,citrus","non_oak,microbio,tree_fruit,citrus_fruit",4
+Brut Champagne (Gold),"green apple,toast,citrus,cream","tree_fruit,non_oak,citrus_fruit,microbio",4
+Brut Cuvée Champagne Rosé,"cream,toast,citrus,green apple","microbio,citrus_fruit,non_oak,tree_fruit",4
+Brut Rosé Champagne,"citrus,cream,toast,green apple","citrus_fruit,microbio,non_oak,tree_fruit",4
+Brut Rosé Champagne,"cream,toast,citrus,green apple","microbio,citrus_fruit,non_oak,tree_fruit",4
+Cabernet Sauvignon,"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Capellanía Reserva,"toast,cream,green apple,citrus","non_oak,microbio,tree_fruit,citrus_fruit",4
+Castello della Sala Cervaro della Sala,"cream,toast,green apple,citrus","microbio,non_oak,tree_fruit,citrus_fruit",4
+Cava Celler Batlle,"toast,cream,green apple,citrus","non_oak,microbio,tree_fruit,citrus_fruit",4
+Chardonnay,"cream,toast,citrus,green apple","microbio,citrus_fruit,non_oak,tree_fruit",4
+Chardonnay,"green apple,cream,toast,citrus","tree_fruit,microbio,citrus_fruit,non_oak",4
+Châteauneuf-du-Pape,"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Clos de la Coulée de Serrant,"green apple,citrus,toast,cream","tree_fruit,citrus_fruit,non_oak,microbio",4
+Clos des Goisses Champagne,"toast,green apple,cream,citrus","non_oak,tree_fruit,microbio,citrus_fruit",4
+Clos du Mesnil,"toast,citrus,cream,green apple","non_oak,citrus_fruit,microbio,tree_fruit",4
+Corton-Charlemagne Grand Cru,"cream,toast,citrus,green apple","microbio,citrus_fruit,tree_fruit,non_oak",4
+Corton-Charlemagne Grand Cru,"citrus,cream,toast,green apple","citrus_fruit,microbio,tree_fruit,non_oak",4
+Corton-Charlemagne Grand Cru,"cream,toast,green apple,citrus","microbio,non_oak,tree_fruit,citrus_fruit",4
+Corton-Charlemagne Grand Cru Blanc,"cream,toast,citrus,green apple","microbio,non_oak,citrus_fruit,tree_fruit",4
+Cristal Rosé Brut Champagne (Millésimé),"toast,citrus,green apple,cream","non_oak,citrus_fruit,tree_fruit,microbio",4
+Cuvée Annamaria Clementi (Extra Brut),"toast,cream,green apple,citrus","non_oak,microbio,tree_fruit,citrus_fruit",4
+Cuvée Nicolas François Billecart Brut Champagne,"toast,green apple,cream,citrus","non_oak,tree_fruit,microbio,citrus_fruit",4
+Gaia & Rey Langhe,"cream,toast,green apple,citrus","microbio,non_oak,tree_fruit,citrus_fruit",4
+Grand Siècle Champagne (Grande Cuvée),"toast,cream,green apple,citrus","non_oak,microbio,tree_fruit,citrus_fruit",4
+Les Noisetiers,"cream,toast,green apple,citrus","microbio,tree_fruit,citrus_fruit,non_oak",4
+MV,"toast,green apple,cream,citrus","non_oak,tree_fruit,microbio,citrus_fruit",4
+One Sixteen Chardonnay,"green apple,cream,toast,citrus","tree_fruit,microbio,citrus_fruit,non_oak",4
+Pauillac (Grand Cru Classé),"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Pauillac (Premier Grand Cru Classé),"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Pessac-Léognan (Grand Cru Classé de Graves),"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Pessac-Léognan (Grand Cru Classé de Graves),"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Puligny-Montrachet,"cream,toast,citrus,green apple","microbio,citrus_fruit,tree_fruit,non_oak",4
+Sassicaia,"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Sauternes (Premier Grand Cru Classé),"coffee,citrus,toast,cream","oak,citrus_fruit,non_oak,microbio",4
+Sauternes (Premier Grand Cru Classé),"coffee,toast,citrus,cream","oak,non_oak,citrus_fruit,microbio",4
+Silex,"citrus,green apple,cream,toast","citrus_fruit,tree_fruit,microbio,non_oak",4
+Tignanello,"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+Toscana Batar,"cream,toast,green apple,citrus","microbio,tree_fruit,non_oak,citrus_fruit",4
+Unico,"coffee,toast,cream,citrus","oak,non_oak,microbio,citrus_fruit",4
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',"green apple,toast,cream,citrus","tree_fruit,non_oak,microbio,citrus_fruit",4
+Vin de Constance (Natural Sweet),"citrus,coffee,toast,cream","citrus_fruit,oak,non_oak,microbio",4
+60 Sessantanni Old Vines Primitivo di Manduria,"coffee,toast,cream","oak,non_oak,microbio",3
+ARTEMIS Cabernet Sauvignon,"coffee,toast,cream","oak,non_oak,microbio",3
+Aconcagua Valley,"coffee,toast,cream","oak,non_oak,microbio",3
+Aile d'Argent Blanc Bordeaux,"green apple,citrus,cream","tree_fruit,citrus_fruit,microbio",3
+Alexander Valley Cabernet Sauvignon,"coffee,toast,cream","oak,non_oak,microbio",3
+Almaviva,"coffee,toast,cream","oak,non_oak,microbio",3
+Amarone della Valpolicella Classico,"coffee,toast,cream","oak,non_oak,microbio",3
+Amarone della Valpolicella Classico,"coffee,toast,cream","oak,non_oak,microbio",3
+Baron de L Pouilly-Fumé,"citrus,green apple,cream","citrus_fruit,tree_fruit,microbio",3
+Barsac (Premier Grand Cru Classé),"citrus,toast,cream","citrus_fruit,non_oak,microbio",3
+Beyond the Clouds,"green apple,cream,citrus","tree_fruit,microbio,citrus_fruit",3
+Bolgheri Superiore,"coffee,toast,cream","oak,non_oak,microbio",3
+Bricco dell'Uccellone Barbera d'Asti,"coffee,toast,cream","oak,non_oak,microbio",3
+Brunello di Montalcino,"coffee,toast,citrus","oak,non_oak,microbio,citrus_fruit",3
+Brut Rosé Champagne,"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Buisson Renard,"citrus,green apple,cream","citrus_fruit,tree_fruit,microbio",3
+Cabernet Sauvignon,"coffee,toast,cream","oak,non_oak,microbio",3
+Castillo Ygay Gran Reserva Especial Tinto,"coffee,toast,cream","oak,non_oak,microbio",3
+Cepparello Red,"coffee,toast,cream","oak,non_oak,microbio",3
+Chablis Grand Cru 'Valmur',"citrus,cream,green apple","citrus_fruit,microbio,tree_fruit",3
+Chassagne-Montrachet,"cream,toast,citrus","microbio,citrus_fruit,non_oak",3
+Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche ,"cream,green apple,citrus","microbio,tree_fruit,citrus_fruit",3
+Chevalier-Montrachet Grand Cru Blanc,"citrus,cream,toast","citrus_fruit,microbio,non_oak",3
+Château Margaux (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Clio,"coffee,toast,cream","oak,non_oak,microbio",3
+Clos Apalta,"coffee,toast,cream","oak,non_oak,microbio",3
+Clos Sainte Hune Riesling Alsace,"green apple,citrus,cream","tree_fruit,citrus_fruit,microbio",3
+Collection,"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Continuum Estate,"coffee,toast,cream","oak,non_oak,microbio",3
+Cos d'Estournel,"coffee,toast,cream","oak,non_oak,microbio",3
+Costasera Amarone della Valpolicella Classico,"coffee,toast,cream","oak,non_oak,microbio",3
+Côte-Rôtie La Turque,"coffee,toast,cream","oak,non_oak,microbio",3
+Dalmau Rioja,"coffee,toast,cream","oak,non_oak,microbio",3
+Dominus (Christian Moueix),"coffee,toast,cream","oak,non_oak,microbio",3
+Eight Years In The Desert,"coffee,toast,cream","oak,non_oak,microbio",3
+Evenstad Reserve Pinot Noir,"coffee,toast,cream","oak,non_oak,microbio",3
+Flaccianello della Pieve,"coffee,toast,cream","oak,non_oak,microbio",3
+Flor de Pingus,"coffee,toast,cream","oak,non_oak,microbio",3
+Gaudium,"coffee,toast,cream","oak,non_oak,microbio",3
+Georges De Latour Private Reserve Cabernet Sauvignon,"coffee,toast,cream","oak,non_oak,microbio",3
+Gran Reserva 890,"coffee,toast,cream","oak,non_oak,microbio",3
+Grand Vin Pauillac (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Grand Vin de Château Palmer (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Grange,"coffee,toast,cream","oak,non_oak,microbio",3
+Hermitage La Chapelle Rouge,"coffee,toast,cream","oak,non_oak,microbio",3
+Insignia,"coffee,toast,cream","oak,non_oak,microbio",3
+Isosceles,"coffee,toast,cream","oak,non_oak,microbio",3
+La Grande Dame Brut Rosé Champagne,"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Le Serre Nuove,"coffee,toast,cream","oak,non_oak,microbio",3
+Les Clos Chablís Grand Cru,"citrus,cream,green apple","citrus_fruit,microbio,tree_fruit",3
+Luce,"coffee,toast,cream","oak,non_oak,microbio",3
+Macán Clásico,"coffee,toast,cream","oak,non_oak,microbio",3
+Malbec Argentino,"coffee,toast,cream","oak,non_oak,microbio",3
+Malleolus,"coffee,toast,cream","oak,non_oak,microbio",3
+Margaux (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Monte Bello,"coffee,toast,cream","oak,non_oak,microbio",3
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Opus One,"coffee,toast,cream","oak,non_oak,microbio",3
+Oreno Toscana,"coffee,toast,cream","oak,non_oak,microbio",3
+Papillon,"coffee,toast,cream","oak,non_oak,microbio",3
+Pauillac (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Pauillac (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Pauillac (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Pauillac (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Pavillon Rouge du Château Margaux,"coffee,toast,cream","oak,non_oak,microbio",3
+Pessac-Léognan (Grand Cru Classé de Graves),"coffee,toast,cream","oak,non_oak,microbio",3
+Pessac-Léognan (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Pian delle Vigne Brunello di Montalcino,"coffee,toast,cream","oak,non_oak,microbio",3
+Pieve Santa Restituta Brunello di Montalcino,"coffee,toast,cream","oak,non_oak,microbio",3
+Pomerol,"coffee,toast,cream","oak,non_oak,microbio",3
+Pomerol,"coffee,toast,cream","oak,non_oak,microbio",3
+Pomerol,"coffee,toast,cream","oak,non_oak,microbio",3
+Pomerol,"coffee,toast,cream","oak,non_oak,microbio",3
+Pomerol,"coffee,toast,cream","oak,non_oak,microbio",3
+Pomerol,"coffee,toast,cream","oak,non_oak,microbio",3
+Puligny-Montrachet Enseignères,"citrus,cream,toast","citrus_fruit,microbio,non_oak",3
+Pur Sang,"citrus,green apple,cream","citrus_fruit,tree_fruit,microbio",3
+Quarz Sauvignon,"citrus,green apple,cream","citrus_fruit,tree_fruit,microbio",3
+Redigaffi Toscana,"coffee,toast,cream","oak,non_oak,microbio",3
+Reserva Ribera del Duero,"coffee,toast,cream","oak,non_oak,microbio",3
+Ribera del Duero,"coffee,toast,cream","oak,non_oak,microbio",3
+Roda I Reserva Rioja,"coffee,toast,cream","oak,non_oak,microbio",3
+Rosé,"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Rosé Brut Champagne Grand Cru 'Ambonnay',"cream,toast,citrus","microbio,citrus_fruit,non_oak",3
+Saint-Estèphe (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Julien (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Julien (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Julien (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Julien (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Julien (Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,toast,cream","oak,non_oak,microbio",3
+Scharzhofberger Riesling Kabinett,"green apple,citrus,cream","tree_fruit,citrus_fruit,microbio",3
+Serral del Vell Brut Nature,"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Special Selection Cabernet Sauvignon,"coffee,toast,cream","oak,non_oak,microbio",3
+Tenuta Guado al Tasso Bolgheri Superiore,"coffee,toast,cream","oak,non_oak,microbio",3
+Tenuta Tignanello 'Solaia',"coffee,toast,cream","oak,non_oak,microbio",3
+Tinto,"coffee,toast,cream","oak,non_oak,microbio",3
+Tokaji Aszú 5 Puttonyos,"citrus,toast,cream","citrus_fruit,non_oak,microbio",3
+Toro,"coffee,toast,cream","oak,non_oak,microbio",3
+Torre Muga,"coffee,toast,cream","oak,non_oak,microbio",3
+Toscana,"coffee,toast,cream","oak,non_oak,microbio",3
+Toscana Bianco,"green apple,citrus,cream","tree_fruit,citrus_fruit,microbio",3
+Valbuena 5º,"coffee,toast,cream","oak,non_oak,microbio",3
+Victorino,"coffee,toast,cream","oak,non_oak,microbio",3
+Vieilles Vignes Châteauneuf-du-Pape Blanc,"cream,toast,citrus","microbio,non_oak,citrus_fruit",3
+Vittorio Moretti,"toast,cream,citrus","non_oak,microbio,citrus_fruit",3
+Amarone della Valpolicella Classico,"coffee,cream","oak,non_oak,microbio",2
+Amarone della Valpolicella Classico Riserva (Sergio Zenato),"coffee,cream","oak,non_oak,microbio",2
+Amour de Deutz Millesimé Rosé Brut Champagne,"cream,citrus","microbio,citrus_fruit",2
+Aszú 6 puttonyos,"citrus,cream","citrus_fruit,microbio",2
+Barón de Chirel Rioja Reserva,"coffee,toast","oak,non_oak,microbio",2
+Beaune 1er Cru 'Clos des Mouches' Blanc,"cream,citrus","microbio,citrus_fruit",2
+Ben Ryé Passito di Pantelleria,"citrus,cream","citrus_fruit,microbio",2
+Bibbona,"coffee,toast","oak,non_oak,microbio",2
+Blanc,"cream,citrus","microbio,citrus_fruit",2
+Bolgheri Superiore,"coffee,cream","oak,non_oak,microbio",2
+Brunello di Montalcino,"coffee,cream","oak,non_oak,microbio",2
+Bâtard-Montrachet Grand Cru,"citrus,cream","citrus_fruit,microbio",2
+Bâtard-Montrachet Grand Cru,"cream,citrus","microbio,citrus_fruit",2
+CASK 23 Cabernet Sauvignon,"coffee,cream","oak,non_oak,microbio",2
+Cabernet Sauvignon,"coffee,cream","oak,non_oak,microbio",2
+Cabernet Sauvignon (Signature),"coffee,cream","oak,non_oak,microbio",2
+Castello della Sala Muffato della Sala,"citrus,cream","citrus_fruit,microbio",2
+Champagne,"citrus,cream","citrus_fruit,microbio",2
+Chassagne-Montrachet 1er Cru 'La Maltroie',"cream,citrus","microbio,citrus_fruit",2
+Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,"cream,citrus","microbio,citrus_fruit",2
+Chevalier-Montrachet Grand Cru,"citrus,cream","citrus_fruit,microbio",2
+Chloe Chardonnay,"cream,citrus","microbio,citrus_fruit",2
+Châteauneuf-du-Pape,"coffee,cream","oak,non_oak,microbio",2
+Colheita Port,"coffee,cream","oak,non_oak,microbio",2
+Corton-Charlemagne Grand Cru,"cream,citrus","microbio,citrus_fruit",2
+Corton-Charlemagne Grand Cru,"toast,citrus","microbio,citrus_fruit,non_oak",2
+Coteau de Vernon Condrieu,"cream,citrus","microbio,citrus_fruit",2
+Côtes de Bourg,"coffee,cream","oak,non_oak,microbio",2
+Domaine des Tourettes Hermitage Rouge,"coffee,cream","oak,non_oak,microbio",2
+FAY Cabernet Sauvignon,"coffee,cream","oak,non_oak,microbio",2
+Finca Altamira Malbec,"coffee,cream","oak,non_oak,microbio",2
+Galatrona,"coffee,cream","oak,non_oak,microbio",2
+Guerriero del Mare,"citrus,cream","citrus_fruit,microbio",2
+Guerriero della Terra,"coffee,cream","oak,non_oak,microbio",2
+Harlan Estate Red,"coffee,cream","oak,non_oak,microbio",2
+Il Pino di Biserno,"coffee,cream","oak,non_oak,microbio",2
+La Piu Belle,"coffee,cream","oak,non_oak,microbio",2
+Le Petit Cheval Bordeaux Blanc,"citrus,cream","citrus_fruit,microbio",2
+Les Blanchiens Brut Nature Champagne Premier Cru,"toast,citrus","microbio,non_oak,citrus_fruit",2
+Les Pavots,"coffee,cream","oak,non_oak,microbio",2
+Limited Edition 10 Vendemmie,"coffee,cream","oak,non_oak,microbio",2
+Macán,"coffee,cream","oak,non_oak,microbio",2
+Mendoza,"coffee,cream","oak,non_oak,microbio",2
+Mille E Una Notte,"coffee,cream","oak,non_oak,microbio",2
+Montrachet Grand Cru Marquis de Laguiche,"cream,citrus","microbio,citrus_fruit",2
+Nicolás Catena Zapata,"coffee,cream","oak,non_oak,microbio",2
+Nine Popes,"coffee,toast","oak,non_oak,microbio",2
+One Point Five Cabernet Sauvignon,"coffee,cream","oak,non_oak,microbio",2
+Overture,"coffee,cream","oak,non_oak,microbio",2
+Paleo Rosso,"coffee,cream","oak,non_oak,microbio",2
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),"citrus,cream","citrus_fruit,microbio",2
+Pinotage,"coffee,toast","oak,non_oak,microbio",2
+Pomerol,"coffee,cream","oak,non_oak,microbio",2
+Pomerol,"coffee,cream","oak,non_oak,microbio",2
+Puligny-Montrachet Premier Cru ' Clos de la Truffière',"green apple,citrus","tree_fruit,citrus_fruit",2
+Puligny-Montrachet Premier Cru Champ-Canet,"cream,citrus","microbio,citrus_fruit",2
+Red,"coffee,toast","oak,non_oak,microbio",2
+Relentless,"coffee,cream","oak,non_oak,microbio",2
+Reserve Chardonnay,"citrus,cream","citrus_fruit,microbio",2
+Reserve Pinotage,"coffee,cream","oak,non_oak,microbio",2
+Ribera del Duero Reserva,"coffee,toast","oak,non_oak,microbio",2
+Ribolla Gialla,"citrus,cream","citrus_fruit,microbio",2
+Rioja Reserva,"coffee,cream","oak,non_oak,microbio",2
+Riserva Nova Domus Terlaner,"cream,citrus","microbio,citrus_fruit",2
+Rubicon,"coffee,cream","oak,non_oak,microbio",2
+Rutherford,"coffee,cream","oak,non_oak,microbio",2
+Saffredi,"coffee,cream","oak,non_oak,microbio",2
+Saint-Émilion Grand Cru,"coffee,cream","oak,non_oak,microbio",2
+Saint-Émilion Grand Cru,"coffee,cream","oak,non_oak,microbio",2
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),"coffee,cream","oak,non_oak,microbio",2
+San Vicente Rioja,"coffee,toast","oak,non_oak,microbio",2
+Scharzhofberger Riesling Auslese,"citrus,cream","citrus_fruit,microbio",2
+Siepi,"coffee,toast","oak,non_oak,microbio",2
+Sperss Barolo,"coffee,cream","oak,non_oak,microbio",2
+St. Henri Shiraz,"coffee,cream","oak,non_oak,microbio",2
+Tenuta Nuova Brunello di Montalcino,"coffee,cream","oak,non_oak,microbio",2
+The Armagh Shiraz,"coffee,cream","oak,non_oak,microbio",2
+Tinto,"coffee,cream","oak,non_oak,microbio",2
+Tokaji Aszú 3 Puttonyos,"citrus,cream","citrus_fruit,microbio",2
+Toscana,"coffee,cream","oak,non_oak,microbio",2
+Unico Reserva Especial Edición,"coffee,cream","oak,non_oak,microbio",2
+Valpolicella Classico Superiore,"coffee,cream","oak,non_oak,microbio",2
+Valpolicella Superiore Monte Lodoletta,"coffee,cream","oak,non_oak,microbio",2
+Vieilles Vignes Meursault,"cream,citrus","microbio,citrus_fruit",2
+Viña El Pison,"coffee,cream","oak,non_oak,microbio",2
+Vénus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',"citrus,green apple","citrus_fruit,tree_fruit",2
+25 anni Montefalco Sagrantino,coffee,"oak,non_oak",1
+5 Stelle Sfursat,coffee,"oak,non_oak",1
+50 & 50,coffee,"oak,non_oak",1
+80 Vecchie Vigne Primitivo di Manduria Old Vines,coffee,"oak,non_oak",1
+Ai Suma Barbera d'Asti,coffee,"oak,non_oak",1
+Altero Brunello di Montalcino,coffee,"oak,non_oak",1
+Amarone della Valpolicella,coffee,"oak,non_oak",1
+Amarone della Valpolicella,coffee,"oak,non_oak",1
+Amarone della Valpolicella Classico,coffee,"oak,non_oak",1
+Amarone della Valpolicella Classico,coffee,"oak,non_oak",1
+Amarone della Valpolicella Classico,coffee,"oak,non_oak",1
+Amarone della Valpolicella Monte Lodoletta,coffee,"oak,non_oak",1
+Ares,coffee,"oak,non_oak",1
+Barbaresco,coffee,"oak,non_oak",1
+Barbaresco Rabajà,coffee,"oak,non_oak",1
+Barolo Bricco Rocche,coffee,"oak,non_oak",1
+Barolo Cascina Francia,coffee,"oak,non_oak",1
+Barolo Ciabot Mentin Ginestra,coffee,"oak,non_oak",1
+Barolo Le Vigne,coffee,"oak,non_oak",1
+Barolo Prapò,coffee,"oak,non_oak",1
+Barolo Riserva,coffee,"oak,non_oak",1
+Barolo Riserva Bricco Boschis Vigna San Giuseppe,coffee,"oak,non_oak",1
+Bienvenues-Bâtard-Montrachet Grand Cru,citrus,citrus_fruit,1
+Blueline Estate Cabernet Sauvignon,coffee,"oak,non_oak",1
+Boal Madeira,coffee,"non_oak,oak",1
+Bolgheri Superiore,coffee,"oak,non_oak",1
+Bolgheri Superiore Sondraia,coffee,"oak,non_oak",1
+Bramare Malbec Uco Valley,coffee,"oak,non_oak",1
+Bric Dël Fiasc Barolo,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino,coffee,"oak,non_oak",1
+Brunello di Montalcino  Montosoli,coffee,"oak,non_oak",1
+Brunello di Montalcino Riserva,coffee,"oak,non_oak",1
+Brunello di Montalcino Riserva,coffee,"oak,non_oak",1
+Brunello di Montalcino Riserva Madonna del Piano,coffee,"oak,non_oak",1
+Brunello di Montalcino Riserva Vigna Paganelli,coffee,"oak,non_oak",1
+Brut Rosé Champagne,cream,microbio,1
+Cabernet Sauvignon,coffee,"oak,non_oak",1
+Calcarole Amarone della Valpolicella Classico,coffee,"oak,non_oak",1
+Campo Inferi Amarone della Valpolicella Classico Riserva,coffee,"oak,non_oak",1
+Campo León Amarone della Valpolicella,coffee,"oak,non_oak",1
+Campo dei Gigli Amarone della Valpolicella,coffee,"oak,non_oak",1
+Campo del Titari Amarone della Valpolicella Classico Riserva,coffee,"oak,non_oak",1
+Campolongo di Torbe Amarone della Valpolicella Classico,coffee,"oak,non_oak",1
+Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,coffee,"oak,non_oak",1
+Carruades de Lafite Pauillac,cream,microbio,1
+Ca’ del Merlo Rosso Veneto,coffee,"oak,non_oak",1
+Cerretalto Brunello di Montalcino,coffee,"oak,non_oak",1
+Chateau Buena Vista Cabernet Sauvignon Napa Valley,coffee,"oak,non_oak",1
+Châteauneuf-du-Pape Réservé Blanc,citrus,citrus_fruit,1
+Cinque Autoctoni Collection Limited Release,cream,microbio,1
+Cirsion Rioja,coffee,"oak,non_oak",1
+Clos de Tart Grand Cru Monopole,coffee,"oak,non_oak",1
+Clos des Lambrays Grand Cru,coffee,"oak,non_oak",1
+Conteisa Langhe,coffee,"oak,non_oak",1
+Corton-Charlemagne Grand Cru,citrus,citrus_fruit,1
+Corton-Charlemagne Grand Cru,citrus,citrus_fruit,1
+Cosimo Varvaglione Collezione Privata Primitivo di Manduria,coffee,"oak,non_oak",1
+Costa Russi (Barbaresco) Langhe,coffee,"oak,non_oak",1
+Cream Tradición Vos 20 Years,cream,microbio,1
+Cuvée Risleus Brut Champagne Premier Cru,toast,"non_oak,microbio",1
+Côte-Rôtie,coffee,"oak,non_oak",1
+Côte-Rôtie La Landonne,coffee,"oak,non_oak",1
+Côte-Rôtie La Mouline,coffee,"oak,non_oak",1
+Dagromis Barolo,coffee,"oak,non_oak",1
+Domus Aurea Cabernet Sauvignon,coffee,"oak,non_oak",1
+Don PX Convento Selección,coffee,"oak,non_oak",1
+Douro Pintas Tinto,coffee,"oak,non_oak",1
+Duemani Cabernet Franc,coffee,"oak,non_oak",1
+Fusion V,coffee,"oak,non_oak",1
+Gewürztraminer Lunare,citrus,citrus_fruit,1
+Giallo d'Arles Greco di Tufo,citrus,citrus_fruit,1
+Giramonte Toscana,coffee,"oak,non_oak",1
+Gold Series Syrah,coffee,"oak,non_oak",1
+Gorgona,cream,microbio,1
+Gran Enemigo,coffee,"oak,non_oak",1
+Gran Reserva Rioja (Finca Ygay),coffee,"oak,non_oak",1
+Hommage à Jacques Perrin Châteauneuf-du-Pape,coffee,"oak,non_oak",1
+Howell Mountain Cabernet Sauvignon,coffee,"oak,non_oak",1
+Hyde Vineyard Chardonnay,citrus,citrus_fruit,1
+Il Bricco Barbaresco,coffee,"oak,non_oak",1
+Il San Lorenzo Bianco,cream,microbio,1
+Kairos,coffee,"oak,non_oak",1
+Kevin Arnold Shiraz,coffee,"oak,non_oak",1
+Kurni Marche,coffee,"oak,non_oak",1
+L'Apparita,coffee,"oak,non_oak",1
+L'Hermitage,coffee,"oak,non_oak",1
+La Chapelle de La Mission Haut-Brion Pessac-Léognan,coffee,"oak,non_oak",1
+La Cueva del Contador Rioja,coffee,"oak,non_oak",1
+La Joie,coffee,"oak,non_oak",1
+Lagrein Riserva Porphyr,coffee,"oak,non_oak",1
+Le Désir,coffee,"oak,non_oak",1
+Le Petit Mouton de Mouton Rothschild Pauillac,coffee,"oak,non_oak",1
+Lion Tamer Napa Valley Red Blend,cream,microbio,1
+Luce Brunello di Montalcino,coffee,"oak,non_oak",1
+Lupi Rezerva,coffee,"oak,non_oak",1
+Lupicaia,coffee,"oak,non_oak",1
+Mai The First A.Montes Malbec,coffee,"oak,non_oak",1
+Malbec,coffee,"oak,non_oak",1
+Malleolus de Sanchomartin,coffee,"oak,non_oak",1
+Mazzano Amarone Della Valpolicella Classico,coffee,"oak,non_oak",1
+Messorio,coffee,"oak,non_oak",1
+Meursault 1er Cru 'Les Genevrières',citrus,citrus_fruit,1
+Montepulciano d'Abruzzo,coffee,"oak,non_oak",1
+Montrachet Grand Cru,citrus,citrus_fruit,1
+Montrachet Grand Cru,citrus,citrus_fruit,1
+Montrachet Grand Cru Blanc,citrus,citrus_fruit,1
+Mossone,coffee,"oak,non_oak",1
+Nosotros Single Vineyard Nómade,toast,"non_oak,microbio",1
+Nuits-Saint-Georges 1er Cru Les Damodes,toast,"non_oak,microbio",1
+Pedro Ximenez Tradición 20 Years Old Vos,coffee,"oak,non_oak",1
+Percarlo,coffee,"oak,non_oak",1
+Perpetual,coffee,"oak,non_oak",1
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),citrus,citrus_fruit,1
+Pietro Dal Cero Amarone della Valpolicella,coffee,"oak,non_oak",1
+Pieve Santa Restituta Rennina Brunello di Montalcino,coffee,"oak,non_oak",1
+Pingus,coffee,"oak,non_oak",1
+Poggio all'Oro Brunello di Montalcino Riserva,coffee,"oak,non_oak",1
+Pomerol,coffee,"oak,non_oak",1
+Pomerol,coffee,"oak,non_oak",1
+Pomerol,coffee,"oak,non_oak",1
+Pomerol,coffee,"oak,non_oak",1
+Primitivo di Manduria,coffee,"oak,non_oak",1
+Puligny-Montrachet 1er Cru 'La Garenne',toast,"microbio,non_oak",1
+Recioto della Valpolicella Classico,coffee,"oak,non_oak",1
+Red,coffee,"oak,non_oak",1
+Rioja Blanco Reserva,cream,microbio,1
+S.L.V. Cabernet Sauvignon,coffee,"oak,non_oak",1
+Saint-Emilion Grand Cru (Premier Grand Cru Classé),coffee,"oak,non_oak",1
+Saint-Émilion Grand Cru (Grand Cru Classé),coffee,"oak,non_oak",1
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),coffee,"oak,non_oak",1
+Saperavi,coffee,"oak,non_oak",1
+Scharzhofberger Riesling Spätlese,citrus,citrus_fruit,1
+Scrio,coffee,"oak,non_oak",1
+Series C,coffee,"oak,non_oak",1
+Series M,coffee,"oak,non_oak",1
+Solare Toscana,coffee,"oak,non_oak",1
+Sorì San Lorenzo,coffee,"oak,non_oak",1
+TD9,coffee,"oak,non_oak",1
+Tessons Clos de Mon Plaisir Meursault,citrus,citrus_fruit,1
+Tokaji Aszú 6 Puttonyos,citrus,citrus_fruit,1
+Toscana Camartina,coffee,"oak,non_oak",1
+Toscana I Sodi di San Niccolo,coffee,"oak,non_oak",1
+Toscana Rosso,coffee,"oak,non_oak",1
+Trasnocho,coffee,"oak,non_oak",1
+Turriga Isola dei Nuraghi,coffee,"oak,non_oak",1
+VIK,coffee,"oak,non_oak",1
+VV 26 Blanc de Blancs Vieilles Vignes Grand Cru Brut,toast,"non_oak,microbio",1
+Vecchie Vigne Brunello di Montalcino,coffee,"oak,non_oak",1
+Veneto Alzero Cabernet,coffee,"oak,non_oak",1
+Veneto Rosso del Bepi,coffee,"oak,non_oak",1
+Vigna Cappella di S. Stefano Perno Barolo,coffee,"oak,non_oak",1
+Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,coffee,"oak,non_oak",1
+Vin Santo di Montepulciano Occhio di Pernice,coffee,"oak,non_oak",1
+Vintage Port,coffee,"oak,non_oak",1
+Vürsù Barbaresco Starderi,coffee,"oak,non_oak",1
+Vürsù Barolo Campè,coffee,"oak,non_oak",1
+Yarden Katzrin,coffee,"oak,non_oak",1
+d'Alceo,coffee,"oak,non_oak",1

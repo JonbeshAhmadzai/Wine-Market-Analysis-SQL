@@ -1,0 +1,3 @@
+SELECT *
+FROM vintages
+LIMIT 10; 
