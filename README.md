@@ -11,6 +11,73 @@ It combines **SQL, Python, and Streamlit** to transform raw data into actionable
  The goal: help a wine company **optimize marketing, product selection, and customer targeting**.
 
 ---
+##  Project Workflow & Architecture
+
+This project follows a structured approach to separate *analysis, **logic, and **production-ready outputs*.
+
+###  Jupyter Notebooks (Exploration & Analysis)
+
+The notebooks folder contains:
+
+- `01_testing.ipynb` → Used for exploration and query validation  
+- `02_analysis.ipynb` → Final analysis with business insights and visualizations  
+
+ Purpose:
+- Test SQL queries
+- Explore the dataset
+- Build and validate visualizations
+- Document reasoning and insights
+
+---
+
+### 🗄️ SQL Files (Core Logic)
+
+All business logic is written in dedicated `.sql` files:
+
+queries/business_questions/
+
+ Each file answers a specific business question:
+- Top wines to promote  
+- Country prioritization  
+- Winery awards  
+- Keyword clustering  
+- Leaderboards  
+- Additional insights  
+
+⚠️ No data manipulation is done in Python — all logic is handled using SQL (JOINs, GROUP BY, aggregations).
+
+---
+
+###  Python Scripts (Production Layer)
+
+The `scripts/` folder contains reusable Python modules:
+
+####  charts.py
+- Executes SQL queries directly
+- Generates visualizations using matplotlib
+- Saves charts into: outputs/figures/
+
+####  export_results.py
+- Runs SQL queries
+- Exports results as CSV files
+- Saves outputs into: outputs/tables/
+
+ These scripts allow the project to run *without notebooks* in a production-like environment.
+
+---
+
+### 🌐 Streamlit App (Final Dashboard)
+
+The app.py file provides an interactive dashboard:
+
+- Displays key insights
+- Loads pre-generated charts
+- Shows result tables
+- Provides a business-friendly interface
+
+ This represents the *final deliverable for stakeholders*
+
+---
 
 ##  Live Features
 -  SQL-powered analysis (no pandas)
